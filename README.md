@@ -1,8 +1,8 @@
-# smart-URBAN-farm
+# IoUF - for a better tomorrow
 code for "IoUF - for a better tomorrow", Team - sudo apt-get team-name
 To provide a technical solution to the food crisis by applying DeepLearning,IOT and cloud technologies to optimise yield in agricultural farms and an approach to bring the idea of a smart urban farm into reality.
 Codes and their functionalities :
-*raspberrypi_farm.py is the main automation script(MCU)main control unit
+*raspberrypi_farm.py is the main automation script(MCU)main control unit,also for early pest detection and disease detection.
 *arduino_farm.ino code does the controlling part and sensing part(SCU) supporting control unit
 *farm_arduino.ino code moniters the farm (drip irrigation) and sending emails to the owner in certain situations from  distant location 
 (RCU) remote control unit.
